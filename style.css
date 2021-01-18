@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.card{
+    margin-left: 25%;
+}
